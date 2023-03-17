@@ -31,5 +31,5 @@ src="https://img.shields.io/github/followers/igusantos?logo=github&style=for-the
 
 <a href="http://www.github.com/igusantos"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=igusantos&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/igusantos" align="left"><img src="https://github-readme-stats-igusantos.vercel.app/api/top-langs/?username=igusantos&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/IguSantos" align="left"><img src="https://github-readme-stats-igusantos.vercel.app/api/top-langs/?username=igusantos&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
