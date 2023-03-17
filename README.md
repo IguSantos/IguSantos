@@ -7,7 +7,7 @@ Front-End | Junior
 Tenho 16 anos e comecei a progamar aos 15, pretendo seguir nesse mercado de trabalho e aprender cada vez mais. Amo a possibilidade de criações que a progamação proporciona.
 
 <a href="https://www.github.com/IguSantos" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/igusantos?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
