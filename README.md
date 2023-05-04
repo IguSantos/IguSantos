@@ -3,7 +3,7 @@ Hi 👋 My name is Igor Santos
 
 Front-End | Junior
 -----------------------------
-Estudante com 16 anos cursando o 2 ano do ensino médio,
+Estudante com 16 anos cursando o 2 ano do ensino médio. 
 
 🌐 Olá! Sou um entusiasta da programação front-end e estou constantemente aprimorando minhas habilidades nessa área emocionante. Meu foco principal é o desenvolvimento web, com ênfase em JavaScript. Estou constantemente explorando novas tecnologias e frameworks, e adoro colocar em prática meus conhecimentos para criar interfaces incríveis e interativas.
 
