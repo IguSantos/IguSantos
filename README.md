@@ -47,12 +47,11 @@
 - 🤝 Ampliei meus conhecimentos com curso de DesignThinking e MarketingDigital.
 - 🤖 Utilizei inteligência artificial em um dos meus repositórios.
 
-
 #
 
 <br>
 
-<h2 align="center">📫 Connect with me</h2>
+<h2 align="center">📫 FAle comigo</h2>
 
 <p align="center">
 Novas ideias e deseja uma ajudinha no seu projeto? Fique a vontade para enrar em contato comigo!
@@ -73,12 +72,6 @@ Sempre dando uma mãozinha!
 </div>
 
 <br>
-<h2 align="center">📊 Github Stats</h2>
-
-<div align = "center">
-
-![Stats Overview](https://raw.githubusercontent.com/IguSantos/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/IguSantos/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 <br>
@@ -87,10 +80,10 @@ Sempre dando uma mãozinha!
 
 <div align = "center">
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Linguagens e Ferramentas</h2>
 
 <details open>
-<summary><b>🏄‍♂️ FrontEndB</b></summary>
+<summary><b>🏄‍♂️ FrontEnd</b></summary>
 <br>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -155,11 +148,8 @@ Sempre dando uma mãozinha!
 <p align="left">
 <!-- BLOG-POST-LIST:START -->
 <a href="https://github.com/IguSantos/HollowKnight-Wiki"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IguSantos&repo=HollowKnight-Wiki&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false%22%20"></a>
-
 <a href="https://github.com/IguSantos/GameHorrer-LandingPage"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IguSantos&repo=GameHorrer-LandingPage&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false%22%20"></a>
-
 <a href="https://github.com/IguSantos/Age-Calculator"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IguSantos&repo=Age-Calculator&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false%22%20"></a>
-
 <a href="https://github.com/IguSantos/Memory-Game"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=IguSantos&repo=Memory-Game&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false%22%20"></a>
 
 <!-- BLOG-POST-LIST:END -->
@@ -172,7 +162,6 @@ Sempre dando uma mãozinha!
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=IguSantos&show_icons=true&theme=radical&count_private=true" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IguSantos&layout=compact&theme=radical" height="165">
 </p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=IguSantos.IguSantos">
 </details>
   
   
